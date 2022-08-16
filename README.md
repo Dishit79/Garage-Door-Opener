@@ -1,7 +1,7 @@
 
 # Arduino Garage Door Opener 
 
-A wifi garage door opener made with Arduion and esp8266
+A wifi garage door opener made with Arduino and esp8266
 
 
 ## Demo
